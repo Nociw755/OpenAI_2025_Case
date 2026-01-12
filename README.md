@@ -7,9 +7,10 @@
 ## Permanent Access Methods
 ### Primary Storage
 - **GitHub repository**: `https://github.com/Nociw755/OpenAI_2025_Case`
+- **Ardrive**: `https://app.ardrive.io/#/drives/b3212eaa-67c4-43a2-90e5-8ce004c21240?name=OpenAI_2025_Case`
 
 ### IPFS Mirror
-- **CID**: `[]`
+- **CID**: `[bafybeiadafrp7wswry4rtg4k7zpm47gn2bhuu4qlmnpea2bs2ug5yeadci]`
 
 ## Legal and Ethical Statement
 1. This repository serves solely for technical research and evidence preservation
@@ -23,4 +24,3 @@
 3. **Verify integrity**: Compare file hash values
 
 *Last updated: 12 January 2026*
-*This repository's contents are permanently archived*
