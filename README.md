@@ -1,5 +1,4 @@
-# OpenAI_2025_Case
-# Technical Evidence Archive - Permanent Record
+# OpenAI_2025_Case_Permanent_Record
 
 ## File Inventory
 - **`Core_Asset.vc`** - VeraCrypt encrypted container (AES-256)
